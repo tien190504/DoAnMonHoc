@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DO_AN_LT_WIN</RootNamespace>
+    <AssemblyName>DO_AN_LT_WIN</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Chinh\frm_quantrivien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Chinh\frm_quantrivien.Designer.cs">
+      <DependentUpon>frm_quantrivien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Chinh\ucChung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Chinh\ucChung.Designer.cs">
+      <DependentUpon>ucChung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Chinh\ucStudentManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Chinh\ucStudentManagement.Designer.cs">
+      <DependentUpon>ucStudentManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Chinh\ucTeacherManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Chinh\ucTeacherManagement.Designer.cs">
+      <DependentUpon>ucTeacherManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Chung\ucChuong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Chung\ucChuong.Designer.cs">
+      <DependentUpon>ucChuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Chung\ucKyThi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Chung\ucKyThi.Designer.cs">
+      <DependentUpon>ucKyThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Chung\ucMonHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Chung\ucMonHoc.Designer.cs">
+      <DependentUpon>ucMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\Bai_Thi.cs" />
+    <Compile Include="Entities\Cau_Hoi.cs" />
+    <Compile Include="Entities\Chuong.cs" />
+    <Compile Include="Entities\CT_Bai_Thi.cs" />
+    <Compile Include="Entities\CT_Giang_Day.cs" />
+    <Compile Include="Entities\CT_Mon_Hoc.cs" />
+    <Compile Include="Entities\Danh_Gia_Cua_Sinh_Vien.cs" />
+    <Compile Include="Entities\DBContext.cs" />
+    <Compile Include="Entities\Giang_Vien.cs" />
+    <Compile Include="Entities\Ket_Qua_Thi.cs" />
+    <Compile Include="Entities\Ky_Thi.cs" />
+    <Compile Include="Entities\Mon_Hoc.cs" />
+    <Compile Include="Entities\Phuong_An_Chon.cs" />
+    <Compile Include="Entities\Sinh_Vien.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Login\frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportings\ThongKeDiem.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Student\frm_BaiThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frm_BaiThi.Designer.cs">
+      <DependentUpon>frm_BaiThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frm_DanhGiaSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frm_DanhGiaSV.Designer.cs">
+      <DependentUpon>frm_DanhGiaSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frm_KetQuaThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frm_KetQuaThi.Designer.cs">
+      <DependentUpon>frm_KetQuaThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frm_TrangThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frm_TrangThi.Designer.cs">
+      <DependentUpon>frm_TrangThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\frm_TrangThiGiuaKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\frm_TrangThiGiuaKy.Designer.cs">
+      <DependentUpon>frm_TrangThiGiuaKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\frmGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher\frmGiangVien.Designer.cs">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher\frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\frm_CauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher\frm_CauHoi.Designer.cs">
+      <DependentUpon>frm_CauHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\frm_MonVaChuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher\frm_MonVaChuong.Designer.cs">
+      <DependentUpon>frm_MonVaChuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\frm_PhuongAnChon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher\frm_PhuongAnChon.Designer.cs">
+      <DependentUpon>frm_PhuongAnChon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\frm_TraCuuDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher\frm_TraCuuDiem.Designer.cs">
+      <DependentUpon>frm_TraCuuDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\uctDeThi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher\uctDeThi.Designer.cs">
+      <DependentUpon>uctDeThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\uctTTCauHoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher\uctTTCauHoi.Designer.cs">
+      <DependentUpon>uctTTCauHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\uctTTKyThi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher\uctTTKyThi.Designer.cs">
+      <DependentUpon>uctTTKyThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher\ustFind.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Teacher\ustFind.Designer.cs">
+      <DependentUpon>ustFind.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\Chinh\frm_quantrivien.resx">
+      <DependentUpon>frm_quantrivien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Chinh\ucChung.resx">
+      <DependentUpon>ucChung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Chinh\ucStudentManagement.resx">
+      <DependentUpon>ucStudentManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Chinh\ucTeacherManagement.resx">
+      <DependentUpon>ucTeacherManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Chung\ucChuong.resx">
+      <DependentUpon>ucChuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Chung\ucKyThi.resx">
+      <DependentUpon>ucKyThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Chung\ucMonHoc.resx">
+      <DependentUpon>ucMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reportings\ReportDiem.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frm_BaiThi.resx">
+      <DependentUpon>frm_BaiThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frm_DanhGiaSV.resx">
+      <DependentUpon>frm_DanhGiaSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frm_KetQuaThi.resx">
+      <DependentUpon>frm_KetQuaThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frm_TrangThi.resx">
+      <DependentUpon>frm_TrangThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\frm_TrangThiGiuaKy.resx">
+      <DependentUpon>frm_TrangThiGiuaKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\frmGiangVien.resx">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\frm_CauHoi.resx">
+      <DependentUpon>frm_CauHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\frm_MonVaChuong.resx">
+      <DependentUpon>frm_MonVaChuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\frm_PhuongAnChon.resx">
+      <DependentUpon>frm_PhuongAnChon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\frm_TraCuuDiem.resx">
+      <DependentUpon>frm_TraCuuDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\uctDeThi.resx">
+      <DependentUpon>uctDeThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\uctTTCauHoi.resx">
+      <DependentUpon>uctTTCauHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\uctTTKyThi.resx">
+      <DependentUpon>uctTTKyThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher\ustFind.resx">
+      <DependentUpon>ustFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\DO_AN_LT_WIN.Reportings.ThongKeDiem.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

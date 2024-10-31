@@ -1,0 +1,247 @@
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.frm_quantrivien.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucChung.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucStudentManagement.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucTeacherManagement.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucChuong.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucKyThi.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucMonHoc.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Login.frm_login.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Properties.Resources.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.GenerateResource.cache
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe.config
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.pdb
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.dll
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.xml
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT.220BACB7.Up2Date
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.exe
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.pdb
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frmGiangVien.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctDeThi.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTCauHoi.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTKyThi.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctFind.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_BaiThi.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_KetQuaThi.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThi.resources
+D:\code\winformc#\winformc-\LT\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThiGiuaKy.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe.config
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.pdb
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.dll
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.xml
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.AssemblyReference.cache
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.frm_quantrivien.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucChung.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucStudentManagement.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucTeacherManagement.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucChuong.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucKyThi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucMonHoc.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Login.frm_login.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Properties.Resources.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_BaiThi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_KetQuaThi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThiGiuaKy.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frmGiangVien.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctDeThi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTCauHoi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTKyThi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctFind.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.GenerateResource.cache
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.CoreCompileInputs.cache
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT.220BACB7.Up2Date
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.exe
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.pdb
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_MonVaChuong.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_CauHoi.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_PhuongAnChon.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_TraCuuDiem.resources
+C:\Code\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_DanhGiaSV.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.frm_quantrivien.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucChung.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucStudentManagement.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucTeacherManagement.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucChuong.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucKyThi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucMonHoc.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Login.frm_login.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_BaiThi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_DanhGiaSV.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_KetQuaThi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThiGiuaKy.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frmGiangVien.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_CauHoi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_MonVaChuong.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_PhuongAnChon.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_TraCuuDiem.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctDeThi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTCauHoi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTKyThi.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctFind.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.exe
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.pdb
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe.config
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.pdb
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT.220BACB7.Up2Date
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frmReport.resources
+C:\Users\ADMIN\source\repos\DO_AN_LT_WIN_FINAL\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Reportings\ReportDiem.rdlc
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Reportings\ReportDiem.rdlc
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe.config
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.exe
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\DO_AN_LT_WIN.pdb
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EnvDTE.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\stdole.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.xml
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.frm_quantrivien.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucChung.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucStudentManagement.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chinh.ucTeacherManagement.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucChuong.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucKyThi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Admin.Chung.ucMonHoc.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Login.frm_login.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Properties.Resources.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_BaiThi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_DanhGiaSV.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_KetQuaThi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Student.frm_TrangThiGiuaKy.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frmGiangVien.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frmReport.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_CauHoi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_MonVaChuong.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_PhuongAnChon.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.frm_TraCuuDiem.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctDeThi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTCauHoi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctTTKyThi.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.Teacher.uctFind.resources
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.GenerateResource.cache
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT.220BACB7.Up2Date
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.exe
+C:\Users\Nitro 5\Documents\Zalo Received Files\DO_AN_LT_WIN (1)\DO_AN_LT_WIN\DO_AN_LT_WIN\obj\Debug\DO_AN_LT_WIN.pdb
